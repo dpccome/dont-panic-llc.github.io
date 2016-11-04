@@ -426,6 +426,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 		padding: 0;
 		position: relative;
 		top: 22px;
+        
 	}
 }
 @media (max-width: 991px) {
@@ -462,7 +463,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 	}
 }
 .navbar-brand > img {
-	width: 130px;
+	width: 260px;
 }
 @media (max-width: 768px) {
 	.one-page-header .navbar-brand {
@@ -501,7 +502,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 }
 .one-page-header .navbar-nav > li > a {
 	color: #383339;
-	font-size: 11px;
+	font-size: 14px;
 	text-transform: uppercase;
 	padding: 0 15px;
 	font-weight: bold;
@@ -581,6 +582,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 	/* Responsive code for max-width: 991px */
 	.one-page-header .navbar-header {
 		float: none;
+
 	}
 
 	.one-page-header .navbar-toggle {
@@ -589,6 +591,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 	}
 	.one-page-header .navbar-collapse {
 		padding: 0;
+        
 	}
 	.one-page-header .navbar-collapse.collapse {
 		display: none !important;
@@ -608,6 +611,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 
 	.one-page-header .navbar-nav > li {
 		float: none;
+        
 	}
 
 	.navbar-default .navbar-nav > li > a {
@@ -765,6 +769,8 @@ i.icon-border-v3.g-icon-hover-1 span {
 .one-page-header.top-nav-collapse .navbar-nav > li > a,
 .one-page-header.top-nav-collapse .navbar-nav > li > a:before {
 	color: #fff;
+    font-size: 14px;
+
 }
 
 .one-page-header.top-nav-collapse .navbar-brand {
@@ -1246,6 +1252,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 }
 .tc-testimonials .testimonials-clients-block {
 	padding: 70px 50px 50px 30px;
+    padding-top: 40px;
 	float: right;
 }
 .tc-testimonials-clients .testimonials-clients-block {
@@ -1377,7 +1384,7 @@ i.icon-border-v3.g-icon-hover-1 span {
 
 /* Footer */
 .footer-logo > img {
-  width: 130px;
+  width: 300px;
 }
 .footer-v9 {
 	background: #383339;

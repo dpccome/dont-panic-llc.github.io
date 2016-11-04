@@ -20,7 +20,7 @@
 				gridheight:500,							// Single or Array i.e. 500 or [500, 450,400,350]
 				minHeight:0,
 				autoHeight:"off",					
-				sliderType : "standard",				// standard, carousel, hero					
+				sliderType : "carousel",				// standard, carousel, hero					
 				sliderLayout : "auto",					// auto, fullwidth, fullscreen				
 
 				fullScreenAutoWidth:"off",				// Turns the FullScreen Slider to be a FullHeight but auto Width Slider

@@ -275,6 +275,7 @@ website:   	http://www.themepunch.com
 .fullscreen-container {	
 	position:relative;
 	padding:0;
+    max-height: 350px;
 }
 
 
